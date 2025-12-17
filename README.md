@@ -3,7 +3,7 @@
 A personal portfolio website showcasing my projects, technical skills, and learning journey in Mathematics and Computer Science.
 
 ## Live Demo
-🌐 [View Website](https://your-username.github.io/repository-name/)
+🌐 [View Website](https://kiroegeorge.github.io/Portfolio/)
 
 ## Projects Included
 - NutriPoa Website
